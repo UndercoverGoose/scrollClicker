@@ -1,0 +1,11 @@
+{
+  "package": "io.github.undercovergoose.scrollClicker.mixin",
+  "refmap": "mixins.scrollClicker.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+	"MixinInventoryPlayer"
+  ]
+}
